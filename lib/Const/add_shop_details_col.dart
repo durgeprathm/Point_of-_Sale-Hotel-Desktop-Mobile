@@ -1,0 +1,12 @@
+ const AddShopDetailsTable = 'tbl_shopDetails_table';
+ const sid = 'sid';
+ const shopname = 'shop_name';
+ const shopmobilenumber = 'Shop_mobilenumber';
+ const shopownername = 'shop_ownername';
+ const shopemail = 'shop_email';
+ const shopgstnumber = 'shop_gstnumber';
+ const shopcinnumber = 'shop_cinnumber';
+ const shoppannumber = 'shop_pannumber';
+ const shopssinnumber = 'shop_ssinnumber';
+ const shopaddress = 'shop_address';
+ const shoplogo = 'shop_logo';
